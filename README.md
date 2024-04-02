@@ -4,5 +4,5 @@ Employee management system using PostgreSQL and Spring Boot. Thymleaf, Spring We
 
 ![image](https://github.com/Sasivy12/Employee-Management/assets/113285743/23dd353d-6524-45f8-8553-cf4523b933f3)
 
-![image](https://github.com/Sasivy12/Employee-Management/assets/113285743/00f26ebd-5881-4dfb-81cf-baf63449d0e3)
+![image](https://github.com/Sasivy12/Employee-Management/assets/113285743/00f26ebd-5881-4dfb-81cf-baf63449d0e3) 
 
